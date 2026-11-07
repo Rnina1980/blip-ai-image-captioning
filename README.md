@@ -38,3 +38,9 @@ Open the local or forwarded Gradio URL.
 Developed as part of the IBM Generative AI Engineering learning program.
 
 This project demonstrates pretrained model inference, image processing, web interfaces, and automated caption generation.
+
+
+## Application Screenshot
+
+![BLIP AI Image Captioning Demo](blip-demo.png)
+
