@@ -1,0 +1,8 @@
+
+my_env/
+.venv/
+__pycache__/
+*.pyc
+.env
+.theia/
+lexus.jpg
