@@ -42,5 +42,9 @@ This project demonstrates pretrained model inference, image processing, web inte
 
 ## Application Screenshot
 
-![BLIP AI Image Captioning Demo](blip-demo.png)
+
+## AI Image Captioning Application Demo
+
+![AI Image Captioning Application](ai_image_captioning.png)
+
 
